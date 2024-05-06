@@ -23,7 +23,7 @@ found in other recommendation systems.
    - [User Data](https://www.kaggle.com/datasets/anuragbanerjee/million-song-data-set-subset?select=10000.txt)
    - [Song Data](https://www.kaggle.com/datasets/anuragbanerjee/million-song-data-set-subset?select=song_data.csv)
    - Unzip the files, and name them: `song_data.csv` and `10000.txt` respective to their file types. 
-     Then add them to this directory.
+     Then add them to the R directory.
 
    - If desired, the code can be modified to work with the million song datasets. To do so, you will need to
      download and extract the data of the million song datasets, then place it in the R directory.
